@@ -1,0 +1,23 @@
+.homeImage{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.img{
+    z-index: 1;
+    height: 35vh;
+    object-fit: contain;
+    margin: 20px;
+}
+
+.heading{
+    text-align: center;
+    text-transform: uppercase;
+    color: #313bac;;
+    font-family: 'Courier New', monospace;
+    margin: 2rem;
+}
+
