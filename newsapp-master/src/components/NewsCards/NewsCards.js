@@ -11,7 +11,7 @@ const infoCards = [
     color: "#6A8B3B",
     title: "News by Categories",
     info: "Business, Entertainment, General, Health, Science, Sports, Technology",
-    text: "Give me the latest Technology news",
+    text: "Give me the latest Technology News",
   },
   { color: "#00838f", title: "Latest News", text: "Give me the latest news" },
   {
